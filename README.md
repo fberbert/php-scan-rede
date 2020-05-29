@@ -4,8 +4,8 @@ Simples scanner de rede em PHP. Ele irá imprimir na tela a lista de todos os ho
 
 Uso:
 
-[b]$ php php-scan-rede.php[/b]
+**$ php php-scan-rede.php[/b]**
 
-#Contato
+## Contato
 
-Fábio Berbert de Paula [mailto:fberbert@gmail.com]
+Fábio Berbert de Paula (mailto:fberbert@gmail.com)
